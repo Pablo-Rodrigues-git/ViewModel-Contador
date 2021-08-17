@@ -13,7 +13,7 @@ class MainViewModel: ViewModel() {
 
     private fun validaContador() {
         contador++
-        if(contador > 5){
+        if(contador > 6){
             contador = 0
         }
 
