@@ -14,5 +14,5 @@
 
 ### 4 - Utilizando o ViewModel podemos rotacionar o dispositivo sem que os dados sejam recarregados novamente.
 
-<img src="images/Viewmodel.gif" width="500">
+<img src="images/Viewmodel.gif" width="400">
 .
